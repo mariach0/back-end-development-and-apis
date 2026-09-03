@@ -10,10 +10,6 @@ function isPrime(n) {
     return true;
 }
 
-console.log(isPrime(1))
-
-
-
 module.exports = {
     isPrime: isPrime
 }
